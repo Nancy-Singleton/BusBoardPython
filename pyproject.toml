@@ -8,6 +8,7 @@ package-mode = false
 python = "^3.10"
 poetry-core = ">=2.0.0,<3.0.0"
 flask = "^3.1.1"
+requests = "^2.32.4"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
